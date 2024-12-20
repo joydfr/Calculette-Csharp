@@ -1,0 +1,15 @@
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\bin\Debug\net8.0\Calculettev1.exe
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\bin\Debug\net8.0\Calculettev1.deps.json
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\bin\Debug\net8.0\Calculettev1.runtimeconfig.json
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\bin\Debug\net8.0\Calculettev1.dll
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\bin\Debug\net8.0\Calculettev1.pdb
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.AssemblyInfoInputs.cache
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.AssemblyInfo.cs
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.csproj.CoreCompileInputs.cache
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.sourcelink.json
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.dll
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\refint\Calculettev1.dll
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.pdb
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\Calculettev1.genruntimeconfig.cache
+C:\Users\siste\OneDrive\Documents\developpement\exercice\Calculettev1\Calculettev1\obj\Debug\net8.0\ref\Calculettev1.dll
