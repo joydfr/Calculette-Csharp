@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\siste\\OneDrive\\Documents\\developpement\\exercice\\Calculettev1\\Calculettev1\\Calculettev1.csproj",
+      "projectUniqueName": "C:\\Users\\siste\\OneDrive\\Documents\\exercice\\Calculette-Csharp\\Calculettev1\\Calculettev1.csproj",
       "projectName": "Calculettev1",
-      "projectPath": "C:\\Users\\siste\\OneDrive\\Documents\\developpement\\exercice\\Calculettev1\\Calculettev1\\Calculettev1.csproj",
+      "projectPath": "C:\\Users\\siste\\OneDrive\\Documents\\exercice\\Calculette-Csharp\\Calculettev1\\Calculettev1.csproj",
       "packagesPath": "C:\\Users\\siste\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\siste\\OneDrive\\Documents\\developpement\\exercice\\Calculettev1\\Calculettev1\\obj\\",
+      "outputPath": "C:\\Users\\siste\\OneDrive\\Documents\\exercice\\Calculette-Csharp\\Calculettev1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

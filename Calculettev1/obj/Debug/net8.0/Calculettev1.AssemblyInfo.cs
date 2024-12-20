@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculettev1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c27aeb4ff6c222cfd1e5206c1cea06d837e7625")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f86c533aa85d1235d6a1b997865b957c749c034")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculettev1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculettev1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
